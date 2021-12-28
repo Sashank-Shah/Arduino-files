@@ -1,2 +1,2 @@
 # Arduino-files
-Here are the Arduino codes from my projects
+Here are the codes of my projects
