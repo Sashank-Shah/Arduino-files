@@ -1,7 +1,7 @@
 /*
 * This code is used on arduino board connected to esp01 module.
 * I have connected ESP-01 with arduino through software serial.
-* RX is digital pin 10, TX is digital pin 11
+* RX is digital pin 10, TX is digital pin 11.
 */
 
 
